@@ -1,1 +1,8 @@
-alert('Sistema Controle de Rota version 1.0v')
+
+var a = 1;
+var b = 5;
+var c = a + b;
+
+console.log(c)
+
+// //
